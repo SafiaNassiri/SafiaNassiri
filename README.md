@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Safia
 
-<!--
-**SafiaNassiri/SafiaNassiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about game development, systems programming, and web engineering.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
+- **Languages:** C#, TypeScript, JavaScript, GDScript, PHP
+- **Frameworks & Engines:** Unity, Godot, Node.js, Vite
+- **Security & Systems:** Web Crypto API, Pathfinding & AI Systems, MySQL, SQLite3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted Work
+- **The Slippery Bandit:** 2D game project built for Summer Beta Jam (GDScript/Godot).
+- **txcyos/Wallet:** Client-side cryptographic implementations featuring AES-GCM key encryption.
+- **Lantern-Laurel:** C# project exploration.
+
+### Connect With Me
+- **Portfolio:** [safianassiri.github.io](https://safianassiri.github.io)
+- **LinkedIn:** [in/safia-nassiri](https://linkedin.com/in/safia-nassiri)
