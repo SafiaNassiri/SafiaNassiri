@@ -17,7 +17,6 @@ I'm a developer focusing on game development, C#/Unity systems architecture, and
 * **[Lantern & Laurel](https://github.com/SafiaNassiri/Lantern-Laurel):** Atmospheric 3D third-person mystery game featuring folk witchcraft rituals and shift-based loop design.
 * **[The Slippery Bandit](https://github.com/SafiaNassiri/TheSlipperyBandit-SummerBeta):** 2D action-stealth game built with GDScript/Godot for Summer Beta Jam.
 * **[txcyos/Wallet](https://github.com/txcyos/Wallet):** Client-side cryptographic key derivation and AES-GCM encryption/decryption module.
-* **[SafiaNassiri.github.io](https://safianassiri.github.io):** Personal portfolio showcasing CS projects and game development work.
 
 ---
 
